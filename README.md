@@ -1,2 +1,2 @@
 # glass-website
-website has glass type of design
+Website has glass type of design.
